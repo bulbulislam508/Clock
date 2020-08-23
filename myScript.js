@@ -33,3 +33,4 @@ function clock(){
     }
 
     setInterval(clock, 0);
+    alert("I am Bulbul")
